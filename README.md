@@ -29,6 +29,6 @@ This showcases multiple [Convex Auth](https://labs.convex.dev/auth) providers in
 ## Learn more
 
 - [Convex Auth docs](https://labs.convex.dev/auth)
-- [Convex Auth on GitHub](https://github.com/get-convex/convex-auth)
+- [Convex Auth on GitHub](https://github.com/convex/convex-auth)
 - [Convex Community Discord](https://convex.dev/community)
 - [Convex Docs](https://docs.convex.dev)
